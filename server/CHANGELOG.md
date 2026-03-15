@@ -127,3 +127,4 @@
   - @paperclipai/adapter-claude-local@0.2.1
   - @paperclipai/adapter-codex-local@0.2.1
   - @paperclipai/adapter-openclaw@0.2.1
+
